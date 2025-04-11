@@ -1,7 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1744318890
+::res://::1744343983
 icon.svg::CompressedTexture2D::6161857866878336485::1744318334::1744318338::1::::<><>::
-player.tscn::PackedScene::3875064134700884942::1744318890::0::1::::<><>::
+player.tscn::PackedScene::3875064134700884942::1744343917::0::1::::<><>::res://player.gd<>uid://bv56dfbqbehua::::res://art/playerGrey_up1.png<>uid://cpwplgru7nh7b::::res://art/playerGrey_up2.png<>uid://c6iaxlnebar4w::::res://art/playerGrey_walk1.png<>uid://bxg06gxgpmn6c::::res://art/playerGrey_walk2.png
+player.gd::GDScript::-1::1744339946::0::1::::<>Area2D<>::
+mob.tscn::PackedScene::6157684976978708598::1744343917::0::1::::<><>::uid://dla8fngg0e6ej::::res://art/enemyFlyingAlt_1.png<>res://mob.gd<>uid://bi54rw2s4mc53::::res://art/enemyFlyingAlt_2.png<>uid://dgsfq7b410ilb::::res://art/enemySwimming_1.png<>uid://fjhd8rilxqd5::::res://art/enemySwimming_2.png<>uid://5s4y06hvrxm3::::res://art/enemyWalking_1.png<>uid://cbba1ccbqdca0::::res://art/enemyWalking_2.png
+mob.gd::GDScript::-1::1744341313::0::1::::<>RigidBody2D<>::
+Main.gd::GDScript::-1::1744343983::0::1::::<>Node<>::
+main.tscn::PackedScene::5518696060787734489::1744343983::0::1::::<><>::res://Main.gd<>uid://cty3f30hkdxys::::res://mob.tscn<>uid://bvhd0fuv3jihy::::res://player.tscn
 ::res://art/::1744319029
 enemyFlyingAlt_1.png::CompressedTexture2D::7933352613207069693::1744319029::1744319029::1::::<><>::
 enemyFlyingAlt_2.png::CompressedTexture2D::3011655114786252880::1744319029::1744319029::1::::<><>::
@@ -15,4 +20,7 @@ playerGrey_up1.png::CompressedTexture2D::3924205581761073716::1744319029::174431
 playerGrey_up2.png::CompressedTexture2D::5872021073524221061::1744319029::1744319029::1::::<><>::
 playerGrey_walk1.png::CompressedTexture2D::6965252213479904516::1744319029::1744319029::1::::<><>::
 playerGrey_walk2.png::CompressedTexture2D::4014723989286165668::1744319029::1744319029::1::::<><>::
-::res://fonts/::1744318604
+::res://fonts/::1744344425
+FONTLOG.txt::TextFile::-1::1744344425::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1744344425::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::2605109761792778681::1744344425::1744344425::1::::<><>::
